@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+strong{
+    font-size: 17pt;
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}  
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}  
+
+.navbar-brand img{
+    max-width: 86pt;
+    min-width: 86pt;
+    background-color: #212529;
+    background-color: #707070;
+    background-color: #F8F9FA o var(--light);
+    background-color: #fff o var(--white);
+    background-color: #28a745 o var(--success);
+}
+footer img{
+    max-width: 82pt;
+    min-width: 82pt;
+}
+#about{
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/bg-about.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
